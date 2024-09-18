@@ -4,6 +4,7 @@ This project showcases a machine learning classification model built to predict 
 The model utilizes various supervised learning algorithms, such as Decision Trees, Random Forest, and KNN, to classify the data accurately.
 
 Features:
+
 Data Preprocessing: Handling missing values and encoding categorical variables.
 Modeling: Comparison of multiple classification algorithms with hyperparameter tuning.
 Evaluation: Model performance measured using metrics like accuracy, precision, recall and F1-score.
